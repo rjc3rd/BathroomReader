@@ -1,0 +1,9 @@
+{
+  "appId": "org.bathroomreader.app",
+  "appName": "BathroomReader",
+  "webDir": "www",
+  "server": {
+    "url": "https://bathroomreader.org",
+    "androidScheme": "https"
+  }
+}

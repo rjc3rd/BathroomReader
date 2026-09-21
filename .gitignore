@@ -1,0 +1,15 @@
+.DS_Store
+*.swp
+.vscode/
+.idea/
+node_modules/
+android/
+ios/
+
+# internal working notes -- never published, see repo-wide no-.md-on-GitHub convention
+AGENTS.md
+PROJECT.md
+PROJECT-HANDOFF.md
+NOTES.md
+*.md
+!README.md
